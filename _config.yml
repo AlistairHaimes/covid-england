@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Key English covid data
-email: alistairhaimes@gmail.com
+#email: ''
 description: >- # this means to ignore newlines until "baseurl:"
   Key English covid-19 data
 baseurl: "/covid-england" # the subpath of your site, e.g. /blog
