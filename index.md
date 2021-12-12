@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-permalink: /
+#permalink: /
 ---
 
 Interactive charts with key English covid data from [UKHSA](https://coronavirus.data.gov.uk/) and the [Zoe Symptom Study](https://covid.joinzoe.com/).
