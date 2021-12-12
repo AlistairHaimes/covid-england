@@ -4,4 +4,4 @@ layout: page
 permalink: charts/south-east
 ---
 
-{% include southeast.html %}
+{% include SouthEast.html %}

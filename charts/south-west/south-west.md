@@ -4,4 +4,4 @@ layout: page
 permalink: charts/south-west
 ---
 
-{% include southwest.html %}
+{% include SouthWest.html %}

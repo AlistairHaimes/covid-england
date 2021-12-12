@@ -4,4 +4,4 @@ layout: page
 permalink: charts/north-west
 ---
 
-{% include northwest.html %}
+{% include NorthWest.html %}
