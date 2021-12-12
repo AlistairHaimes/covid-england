@@ -4,4 +4,4 @@ layout: page
 permalink: charts/north-east-and-yorkshire
 ---
 
-{% include northeastandyorkshire.html %}
+{% include NorthEastandYorkshire.html %}
